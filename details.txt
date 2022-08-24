@@ -1,0 +1,10 @@
+npm i bcryptjs cors express jsonwebtoken mongoose morgan --- backend
+mongo user password : 7Tu7XUXsdvOwxFko
+
+
+npm install @reduxjs/toolkit react-router-dom mdb-react-ui-kit moment react-file-base64 
+       react-google-login react-redux react-toastify @material-ui/core material-ui-chip-input axios ----frontend
+
+
+oAuth Consent Screen for Google Login for the App --- console.google.com for devs
+		create oAuth Client Id as credential key
